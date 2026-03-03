@@ -37,7 +37,7 @@
             Return
         End If
 
-        Dim result = MessageBox.Show("Are you sure you want to delete this product?",
+        Dim result = MessageBox.Show("Are you sure you want to delete this particular product?",
                                     "Confirm Delete",
                                     MessageBoxButtons.YesNo,
                                     MessageBoxIcon.Question)
