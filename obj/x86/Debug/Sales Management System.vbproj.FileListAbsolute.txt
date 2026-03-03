@@ -1,0 +1,27 @@
+C:\Users\USER\source\repos\Sales Management System\bin\x86\Debug\Sales Management System.exe
+C:\Users\USER\source\repos\Sales Management System\bin\x86\Debug\Sales Management System.pdb
+C:\Users\USER\source\repos\Sales Management System\bin\x86\Debug\Sales Management System.xml
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Form1.resources
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Form2.resources
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Resources.resources
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales Management System.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales Management System.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales Management System.exe
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales Management System.xml
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales Management System.pdb
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\Sales Management System.exe.config
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\Sales Management System.exe
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\Sales Management System.pdb
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\Sales Management System.xml
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Form3.resources
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Form4.resources
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Form5.resources
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Form6.resources
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales_Management_System.Form7.resources
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\MyInventoryDataSet.xsd
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\MyInventoryDataSet.Designer.vb
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\MyInventoryDataSet.vb
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\MyInventoryDataSet.xsc
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\MyInventoryDataSet.xss
+C:\Users\USER\source\repos\Sales Management System\bin\Debug\MyInventory.mdb
+C:\Users\USER\source\repos\Sales Management System\obj\x86\Debug\Sales Management System.vbproj.AssemblyReference.cache
